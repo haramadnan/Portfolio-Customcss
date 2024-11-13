@@ -1,0 +1,21 @@
+.footer {
+    margin-top: 4.5rem;
+    padding: 2rem;
+    text-align: center;
+    background-color:lightblue;
+    color: black;
+    font-size: 2rem;
+}
+/*Styles*/@media (min-width: 770px) {
+
+    .footer {
+        padding: 1.5rem;
+        font-size: 0.9rem;
+    }
+}
+@media (min-width: 770px) {
+    .footer {
+        padding: 2rem;
+        font-size: 2rem;
+    }
+}
